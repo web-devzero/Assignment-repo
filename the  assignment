@@ -1,0 +1,15 @@
+What is Cloud Computing?
+Cloud computing is like renting a computer, storage, or software over the internet instead of buying and managing it yourself. Companies like AWS, Google Cloud, and Azure provide these services so businesses can access powerful resources without owning physical hardware.
+Simple Analogy
+Cloud Computing: Like renting a Netflix subscription—you stream movies without storing them.
+On-Premises: Like owning a DVD collection—you buy, store, and maintain your movies.
+1. Full Control Over Infrastructure
+✅ Organizations have complete ownership and control over their hardware, software, and data, allowing them to customize systems as needed.
+2. Enhanced Security & Compliance
+✅ Sensitive data stays within the company’s infrastructure, reducing risks associated with third-party access and meeting strict regulatory requirements (e.g., banking, healthcare, government).
+3. Lower Long-Term Costs
+✅ While upfront costs are high, long-term costs can be lower since there are no recurring cloud subscription fees, especially for businesses with stable workloads.
+4. Performance & Low Latency
+✅ On-prem solutions provide faster data access and lower latency since they don’t rely on internet connectivity, making them ideal for high-speed applications.
+5. Predictable Costs & No Vendor Lock-In
+✅ Businesses avoid unexpected cloud price increases and dependencies on cloud providers, ensuring they have full control over IT expenses.
